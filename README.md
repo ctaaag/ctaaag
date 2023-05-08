@@ -13,7 +13,7 @@
 #### 👀 Contact
 qudxor102@gmail.com
 </br>
-https://velog.io/@ctaaag
+https://ctaaaglog.vercel.app/
 
 ---
 ![Ctaaag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctaaag&theme=dark&show_icons=true)
